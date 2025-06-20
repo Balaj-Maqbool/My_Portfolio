@@ -5,8 +5,7 @@ const skillsData = [
         skills: [
             { name: "HTML/CSS", level: 90 },
             { name: "JavaScript", level: 85 },
-            { name: "React", level: 75 },
-            { name: "Bootstrap/Tailwind", level: 30 }
+            { name: "React", level: 75 }
         ]
     },
     {
@@ -23,10 +22,10 @@ const skillsData = [
         title: "Backend & Databases",
         icon: "fas fa-server",
         skills: [
-            { name: "Node.js", level: 65 },
-            { name: "Express.js", level: 60 },
-            { name: "MongoDB", level: 50 },
-            { name: "PHP & MySQL", level: 30 }
+            { name: "Node.js", level: 20},
+            { name: "Express.js", level: 20 },
+            { name: "MongoDB", level: 30 },
+            { name: "PHP & MySQL", level: 15 }
         ]
     }
 ];
