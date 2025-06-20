@@ -788,7 +788,11 @@ footer {
 }
 
 @media (max-width:380px) {
-    #skills #projects .container{
+    .skills .container{
+        width: 100%;
+        padding-left:15px ;
+    }
+    .projects .container{
         width: 100%;
         padding-left:15px ;
     }
