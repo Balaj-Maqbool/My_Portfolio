@@ -790,11 +790,16 @@ footer {
 @media (max-width:380px) {
     .skills .container{
         width: 100%;
-        padding-left:15px ;
+        padding-left:13px ;
     }
     .projects .container{
         width: 100%;
-        padding-left:15px ;
+        padding-left:13px ;
+    }
+
+    .contact .container{
+        width: 100%;
+        padding-left:13px ;
     }
 
 }
