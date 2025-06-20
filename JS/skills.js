@@ -19,7 +19,7 @@ const skillsData = [
         ]
     },
     {
-        title: "Backend & Databases",
+        title: "Backend & Databases (learning phase...)",
         icon: "fas fa-server",
         skills: [
             { name: "Node.js", level: 20},
