@@ -71,7 +71,7 @@ mobileMenu.addEventListener('click', () => {
 document.querySelectorAll('.nav-links a').forEach(link => {
     link.addEventListener('click', () => {
         navLinks.classList.remove('active');
-        mobileMenu.innerHTML = '<i class="fas fa-bars"></i>';
+        mobileMenu.innerHTML = '<i class="fas fa-bars""></i>';
     });
 });
 
