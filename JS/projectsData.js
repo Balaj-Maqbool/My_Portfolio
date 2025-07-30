@@ -1,12 +1,5 @@
 const projectsData = [
     {
-        title: "E-commerce React App (Frontend UI)",
-        description: "Developed a full shopping UI with cart functionality and product filtering using React hooks and state management.",
-        tags: ["React", "JavaScript", "CSS"],
-        imgAdress: "assets/e_commerce_app.png",
-        liveLink: "https://e-commerce-web-project-seven.vercel.app/"
-    },
-    {
         title: "GPA/CGPA Calculator",
         description: "Built a React single-page app for semester-wise GPA input and dynamic CGPA output with reusable components.",
         tags: ["React", "JavaScript", "CSS"],
